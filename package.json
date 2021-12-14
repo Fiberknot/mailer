@@ -17,6 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/nest-modules/mailer.git"
   },
+  "main": "dist/index.js",
   "license": "MIT",
   "author": "Nest Modules TM",
   "contributors": [
